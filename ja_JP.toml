@@ -1,0 +1,7 @@
+[hello_world]
+description = 'greeting'
+other = "こんにちは世界"
+
+[numbers]
+one = "watashi wa {{.Count}} neko"
+other = "watashi wa {{.Count}} nekos"

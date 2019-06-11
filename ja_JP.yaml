@@ -1,0 +1,4 @@
+hello_world: こんにちは世界
+numbers:
+        one: watashi wa {{.Count}} neko
+        other: watashi wa {{.Count}} nekos

@@ -1,0 +1,5 @@
+hello_world: Hello world!
+numbers:
+        one: I have {{.Count}} cat
+        other: I have {{.Count}} cats
+
